@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GreatDomain.net]]></title>
+        <description><![CDATA[GreatDomain.net]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 May 2016 19:53:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[money.hn]]></title>
+            <description><![CDATA[<article><h1>money.hn</h1><p>This domain is for sale! Buy domains and websites on Sedo, the world's largest domain name marketplace! Millions of premium domains for sale, with thousands sold every month!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/602111e5a8704a013dd236d13c15ee53aa0446d0.jpg"></article>]]></description>
+            <link>https://sedo.com/search/details.php4?domain=money.hn</link>
+            <guid isPermaLink="false">5a972b1c-5e6a-4070-9605-5535e1a1e9a0</guid>
+            <pubDate>Mon, 23 May 2016 19:52:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
