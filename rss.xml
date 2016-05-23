@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[GreatDomain.net]]></title>
         <description><![CDATA[GreatDomain.net]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/greatdomainnet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 19:53:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 19:53:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/greatdomainnet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[are.tv]]></title>
+            <description><![CDATA[<article><h1>are.tv</h1><p>This domain is for sale! Buy domains and websites on Sedo, the world's largest domain name marketplace! Millions of premium domains for sale, with thousands sold every month!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/602111e5a8704a013dd236d13c15ee53aa0446d0.jpg"></article>]]></description>
+            <link>https://sedo.com/search/details.php4?domain=are.tv</link>
+            <guid isPermaLink="false">02c8837a-d223-470f-add5-366ae253dc0e</guid>
+            <pubDate>Mon, 23 May 2016 19:53:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[money.hn]]></title>
             <description><![CDATA[<article><h1>money.hn</h1><p>This domain is for sale! Buy domains and websites on Sedo, the world's largest domain name marketplace! Millions of premium domains for sale, with thousands sold every month!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/602111e5a8704a013dd236d13c15ee53aa0446d0.jpg"></article>]]></description>
